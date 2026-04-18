@@ -4,6 +4,6 @@ File ini berisi kode untuk scraping dari website openlibrary menggunakan beautif
 
 Link Web: 
 
-https://openlibrary.org/trending/forever?page= (Kode 1)
+https://openlibrary.org/trending/forever?page= (kode scraping 1)
 
-https://openlibrary.org/works/OL257943W/A_Game_of_Thrones (kode 2)
+https://openlibrary.org/works/OL257943W/A_Game_of_Thrones (kode scraping 2)
